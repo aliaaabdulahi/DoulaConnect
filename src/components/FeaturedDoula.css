@@ -1,0 +1,59 @@
+.featured-doula {
+    background: #ffe6e6;
+    padding: 100px 200px;
+    text-align: left;
+    border-radius: 5px;
+    margin: 20px;
+  }
+  
+  .featured-content {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .doula-info {
+    flex: 1;
+  }
+  
+  .price {
+    font-size: 24px;
+    color: #f44336;
+  }
+  
+  .explore-button {
+    background: #f44336;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .doula-images {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
+  
+  .doula-images .small-images {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .doula-images img {
+    border-radius: 5px;
+  }
+  
+  .doula-images .small-images img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  
+  .doula-images .large-image {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+  }
+  

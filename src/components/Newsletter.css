@@ -1,0 +1,17 @@
+.newsletter {
+    padding: 20px;
+  }
+  
+  .newsletter input {
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  .subscribe-button {
+    padding: 10px 20px;
+    background: #f44336;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
